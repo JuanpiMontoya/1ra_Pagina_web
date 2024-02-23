@@ -1,0 +1,45 @@
+html
+{
+   background-image:linear-gradient(to right,#67ADDA,#334F6C);
+}
+
+.Tit_y_Sub{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic; 
+    text-decoration: underline; 
+    margin-bottom: 10px;
+}
+
+#Titulo{
+   font-size:40px;
+}
+
+.espaciado{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#Manga{
+    float: right; 
+    margin-right: 10px;   
+    margin-top: 5px;
+}
+
+#Subtitulo{
+    font-size:25px;
+}
+
+.lista span {
+    display: list-item;
+    margin-bottom: 5px;
+}
+
+.espaciado{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.Datos{
+    font-size:20px;
+    font-style: italic; 
+}
